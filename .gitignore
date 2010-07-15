@@ -1,4 +1,0 @@
-WEB-INF/appengine-generated/*
-WEB-INF/lib/*.jar
-config/build.properties
-build/**
